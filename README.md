@@ -1,35 +1,47 @@
 java c
-PHIL 120 99A 2024W1 – INTRO TO CRITICAL THINKING
-Winter Term 1: Sep. 3 – Dec. 6, 2024, Credits: 3
-Course Description:
-The course is a basic introduction to logic and critical reasoning. It is designed to equip the students with the tools and concepts needed to deal with both everyday and more technical arguments, as well as the skills to analyse, and resolve, everyday confusions, ambiguities, and fallacies. The course is divided into 3 major parts:
- Informal Logic. Topics covered in informal logic include the analysis of arguments and resolution of ambiguities; the study of fallacies; the justification of belief.
- Formal Logic. Topics covered in formal logic include the distinction between deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, and many-valued logics).
- Applying Logic to Arguments. This includes discussion of inductive logic, scientific reasoning, and issues in the philosophy of logic.
-This course will be of interest not only to philosophy students, but to all students interested in sharpening their logical skills and exploring the nature of reasoning.
-Required Text:
-J. Woods, A. Irvine and D. Walton, Argument: Critical Thinking, Logic and the Fallacies, 2nd ed., Pearson Canada, 2004 (ISBN 0130399388). Available in bookstore as a course pack.
-Prerequisites:
-No formal prerequisites, though basic logical skills are assumed. This course is restricted to students with fewer than 90 credits. It is intended as a precursor to Phil 220 (a core element in the honours and major programs) as well as a sequence of third-year logic courses (Phil 320, 321, 322, 323 and 324).
-Online Class Format:
-The general format of the class is a mixture of textbook readings, online lecture notes readings, home exercises, online group discussions, online quizzes, review of assignments, and the final exam. All activities in this course are online, including the remotely proctored final exam; you don’t have to be physically situated in Vancouver or even in North America.
-Course Website: www.canvas.ubc.ca → PHIL 120 99A 2024W1
-Course Objectives:
-At the end of this course, you should be able to:
- Analyze arguments critically. This entails both the recognition of good arguments and the identification of fallacies (代 写PHIL 120 99A 2024W1 – INTRO TO CRITICAL THINKINGMatlab
-代做程序编程语言logical errors).
- Use classical propositional logic as the simplest tool for analysis of arguments.
- Identify alternatives to classical propositional logic from the philosophical literature and from applications to reasoning tasks.
- Apply analytical tools to reasoning in a variety of real-life contexts.
-Evaluation:
-Online Discussion Activities 20%
-Online Quizzes 40%
-Online Final Exam 40%
- Discussion Activities: We’ll have 10 online group discussions, one per each module. Every student will be assigned to one of several small (up to 10 students) groups, within which he or she will be expected to take part in all of these group discussions. The more detailed instructions on the group discussions will be given within the first week of classes. The weight of all the (equally weighed) group discussions is 20% of your final grade.
- Quizzes: We’ll have 10 online quizzes, exactly one per each module. The quizzes will typically be a mixture of short-answer, multiple-choice question, simple problem solving, or longer problem-solving type, similar in form. and content to the corresponding group discussion questions. The total weight of all the quizzes is 40% of your final grade.
- Final Exam: There will be an online, 2.5-hour long, cumulative final exam during the examination period weighing 40% of your final grade in this course. The online Final Exam will be remotely proctored using a UBC approved online remote invigilating tool (Zoom, MS Teams, LockDown Browser, or similar).
- IMPORTANT NOTE: In order to access all the material from the course website and take assessments (DAs, Quizzes, Final Exam) you are required to have access to a regular computer (Windows/Mac computer or laptop). You cannot take the assessments from mobile devices (e.g., iPhone, iPad, Android device, etc.). For the remotely invigilated Final Exam you will need a working webcam and microphone. You must also install the Google Chrome web browser  the required extension.
-Doing the textbook exercises and participation in discussions are the key ingredients to the success in this course. I highly recommend doing all the assigned problems (starred and unstarred) and actively participate in the discussions as the real quiz problem may closely resemble them, both in format and content. All starred problems have answers at the back of the textbook.
+MGMT 1002: Communication, Culture and Indigenous
+Perspectives in Business - Assessment Task Sheet
+Assessment 3: Written Reflection
+OVERVIEW
+This is an individual written reflection assessment. There are three (3) parts. You must address ALL three(3) parts. All parts should be written in the first-person ('I', 'my').
+Total word limit is 1200-1500 words, including in-text citations but excluding reference list.
+Part 1.  Write a critical reflection of your learnings this semester about Indigenous culture, history and the current challenges facing Indigenous Australians.  Your critical reflection should address the following reflective prompts:
+What has resonated with you and made you think?
+How has engaging in this unit changed your understanding and perspectives of Indigenous Australians?
+How did your cultural background and identity influence your response to Assessment 1: Case Study - Why connection to country is so important to Aboriginal and Torres Strait Islander peoples;  and two, how both individuals and organisations can show respect of Indigenous people's cultural values?
+Source List
+Your response to part 1 should draw upon the following sources:
+Module learning materials and CAS tutorials
+The documentary Utopio;
+Assessment 1: Case Study- your submission and feedback (marker's, self and peer);
+Please use the Assessment 1 sources we have provided.
+(400-500 words)
+Part 2. Write a critical reflection of your learnings this semester about Corporate Social Responsibility (CSR) and the impact it has had on your understanding of responsible business decision-making. Your critical reflection should address the following reflective prompts:
+How has engaging in this unit changed your understanding and perspectives of CSR and responsible business decision-making?
+How do you think your cultural background and identity have influenced your understanding of CSR and responsible business decision-making?
+When you were researching your chosen company a代 写MGMT 1002: Communication, Culture and Indigenous Assessment 3
+代做程序编程语言nd SDG for Assessment 2: Oral Presentation, what was the most interesting finding? Why did it resonate with you?
+Do you think the broad or narrow view of CSR is preferable for companies? And why?
+Source List
+Your response to part 2 should draw upon the following sources:
+Module learning materials
+Assessment 2: Individual Oral Presentation-your submission and feedback (marker's, self and peer).
+(400-500 words)
+Part 3. Write a critical reflection about your behaviour, actions and emotions in relation to your learning in this unit this semester. Your critical reflection should address the following reflective prompts:
+What was your approach to learning at the start of the semester? Did it change over the course of the semester?
+Choose a specific academic skill (e.g. academic writing, oral communication, critical thinking, referencing, emotional intelligence) and explain how you have developed this skill in this unit over the course of this semester. What worked and what did not? How will you apply this skill in your future career?
+Name one thing you learnt from being a Student as Partner (SAP) representative this study period  one tangible thing we can do to improve the student experience?
+Source List
+Your response to part 3 should draw upon the following sources:
+Feedback (marker's, self, peer)
+Post-tutorial reflections
+Learning materials from all modules and tutorials around communications skills
+Student as Partner (SAP) area in blackboard and your experience
+(400-500 words)
+References:
+Your focus should be on using references predominantly from the resources used in this unit including lectures, Tutorial readings, discussions and slides, blackboard materials (videos, pre-tutorial, tutorial, and post-tutorial resources), the assessments etc, rather than looking for external sources. However, if you find an appropriate external source to supplement your reflection that is also fine.
+
+
 
 
 
